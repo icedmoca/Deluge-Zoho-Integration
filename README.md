@@ -23,7 +23,7 @@ Deluge-Zoho-Integration/
 
 1. **Clone the repo:**
    ```bash
-   git clone <repo_url>
+   git clone https://github.com/icedmoca/Deluge-Zoho-Integration
    cd Deluge-Zoho-Integration
 
 ## Install Dependencies:
