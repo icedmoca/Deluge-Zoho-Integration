@@ -37,7 +37,7 @@ deluge-zoho-integration/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/deluge-zoho-integration.git
+git clone https://github.com/icedmoca/deluge-zoho-integration.git
 cd deluge-zoho-integration
 ```
 
